@@ -1,6 +1,10 @@
+www-data/ServerfoxMVC/*.php
+www-data/ServerfoxMVC/*.html
+www-data/ServerfoxMVC/*.htm
+www-data/ServerfoxMVC/*.js
+www-data/ServerfoxMVC/*.css
 www-data/ServerfoxMVC/cfg/
 www-data/ServerfoxMVC/controllers/
-www-data/ServerfoxMVC/index.php
 www-data/ServerfoxMVC/libs/
 www-data/ServerfoxMVC/logs/
 www-data/ServerfoxMVC/models/
