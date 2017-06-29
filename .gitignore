@@ -1,13 +1,5 @@
-www-data/ServerfoxMVC/*.php
-www-data/ServerfoxMVC/*.html
-www-data/ServerfoxMVC/*.htm
-www-data/ServerfoxMVC/*.js
-www-data/ServerfoxMVC/*.css
-www-data/ServerfoxMVC/cfg/
-www-data/ServerfoxMVC/controllers/
-www-data/ServerfoxMVC/libs/
-www-data/ServerfoxMVC/logs/
-www-data/ServerfoxMVC/models/
-www-data/ServerfoxMVC/plugins/
-www-data/ServerfoxMVC/public/
-www-data/ServerfoxMVC/views/
+# exclude everything
+www-data/ServerfoxMVC/*
+
+# exception to the rule
+!www-data/ServerfoxMVC/.gitkeep
