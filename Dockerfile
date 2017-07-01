@@ -12,3 +12,4 @@ RUN apt-get update && apt-get install -y \
 COPY config/php.ini /usr/local/etc/php/
 COPY config/000-default.conf /etc/apache2/sites-available/
 COPY www-data /var/www/html/
+#
